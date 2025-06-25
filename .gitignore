@@ -4,3 +4,7 @@ node_modules
 
 #Arquivo de configuração
 .env
+
+#Professor indicou a não subir este arquivo também
+/src/generated/prisma
+

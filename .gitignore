@@ -1,0 +1,6 @@
+
+#Arquivo para controle das dependências do projeto 
+node_modules
+
+#Arquivo de configuração
+.env

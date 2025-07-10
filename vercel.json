@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 {
   "version": 2,
@@ -15,3 +16,21 @@
       }
   ]
 }
+=======
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "dist/server.js",
+            "use": "@vercel/node",
+            "config": { "includeFiles": ["dist/**"] }
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "dist/server.js"
+        }
+    ]
+}
+>>>>>>> 61d7921 (Projeto pizzaria curso udemy backend)

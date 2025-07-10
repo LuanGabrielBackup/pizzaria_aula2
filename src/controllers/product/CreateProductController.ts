@@ -36,7 +36,11 @@ class CreateProductController{
       //console.log(resultFile.url);
       //return response.json({})  
 
+<<<<<<< HEAD
   const product = await createProductService.execute({
+=======
+   const product = await createProductService.execute({
+>>>>>>> 61d7921 (Projeto pizzaria curso udemy backend)
         name,
         price,
         description,
@@ -44,7 +48,11 @@ class CreateProductController{
         category_id
       });
 
+<<<<<<< HEAD
     return response.json(product)
+=======
+    return response.json(product);
+>>>>>>> 61d7921 (Projeto pizzaria curso udemy backend)
     }
   }
 }

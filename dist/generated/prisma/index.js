@@ -173,11 +173,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-<<<<<<< HEAD
-      "value": "/C/NodeJS/pizzaria/backend/src/generated/prisma",
-=======
       "value": "/home/luan/codigos/UDEMY/pizzaria/NodeJS/backend/src/generated/prisma",
->>>>>>> 61d7921 (Projeto pizzaria curso udemy backend)
       "fromEnvVar": null
     },
     "config": {
@@ -191,11 +187,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-<<<<<<< HEAD
-    "sourceFilePath": "/C/NodeJS/pizzaria/backend/prisma/schema.prisma",
-=======
     "sourceFilePath": "/home/luan/codigos/UDEMY/pizzaria/NodeJS/backend/prisma/schema.prisma",
->>>>>>> 61d7921 (Projeto pizzaria curso udemy backend)
     "isCustomOutput": true
   },
   "relativeEnvPaths": {

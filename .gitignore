@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 #Arquivo para controle das dependências do projeto 
 node_modules
 
@@ -9,13 +8,3 @@ node_modules
 #Professor indicou a não subir este arquivo também
 /src/generated/prisma
 
-=======
-#node_modules
-node_modules
-
-#.env
-.env
-
-#Não enviar também
-/src/generated/prisma
->>>>>>> 61d7921 (Projeto pizzaria curso udemy backend)

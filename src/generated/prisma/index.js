@@ -173,7 +173,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/C/NodeJS/pizzaria/backend/src/generated/prisma",
+      "value": "/home/luan/codigos/UDEMY/pizzaria/NodeJS/backend/src/generated/prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -187,7 +187,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/C/NodeJS/pizzaria/backend/prisma/schema.prisma",
+    "sourceFilePath": "/home/luan/codigos/UDEMY/pizzaria/NodeJS/backend/prisma/schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
